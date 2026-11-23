@@ -1,9 +1,9 @@
 # Tugas Rutin 4 — Sistem Parkir Kampus (Console)
 
 ## (a) Identitas Mahasiswa
-Nama    :   Angelina S. Saragih
-NIM     :   4243250049
-Kelas   :    PSIK 24C
+- Nama    :   Angelina S. Saragih
+- NIM     :   4243250049
+- Kelas   :    PSIK 24C
 
 ## (b) Diagram Kelas Sederhana
 ![diagram kelas sederhana](diagram.png)
